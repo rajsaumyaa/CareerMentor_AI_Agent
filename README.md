@@ -153,6 +153,7 @@ CareerMentor_AI empowers the next generation with intelligent, personalized care
 ---
 
 Built by **LearnSphere**
+
 Department of Computer Science  
 **Galgotias University**, Greater Noida  
  
